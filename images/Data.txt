@@ -1,1 +1,1 @@
-banana-blitz = banana-meme-1.png
+banana-blitz = banana-meme-1.jpg
