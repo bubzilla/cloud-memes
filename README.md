@@ -1,2 +1,2 @@
-# weekly-memes
-A repository to contain weekly memes for my games!
+# cloud-memes
+A repository to contain memes for my games!
